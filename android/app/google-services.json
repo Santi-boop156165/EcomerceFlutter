@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580614433186",
+    "project_id": "zarafyapp",
+    "storage_bucket": "zarafyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580614433186:android:e827e23b0cfc6755936afb",
+        "android_client_info": {
+          "package_name": "com.example.ecomerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnDbEzdx-6gdN9LonteoOGsck1YmLaVbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
