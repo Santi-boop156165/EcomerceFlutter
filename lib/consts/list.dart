@@ -35,7 +35,7 @@ const featuredTitles1 = ["womenDress", "girlsDressed", "girlsWatches"];
 const featuredTitles2 = ["boysGlasses", "mobiles", "tShirts"];
 
 const categoriesList = [
-  "womenDress","menClothing","computer","automobile","kidtoys","sports","jewelery","cellphones","furniture"
+  "womenDress","computer","automobile","kidtoys","sports","cellphones","jewelery","menClothing","furniture"
 ];
 const categoriesImages = [
  imgFc1,imgFc2,imgFc3,imgFc4,imgFc5,imgFc6,imgFc7,imgFc8,imgFc9
