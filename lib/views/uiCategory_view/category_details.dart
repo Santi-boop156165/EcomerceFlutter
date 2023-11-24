@@ -103,8 +103,10 @@ class CategoryDetail extends StatelessWidget {
                                   .padding(EdgeInsets.all(12))
                                   .make()
                                   .onTap(() {
+
                                 Get.to(
                                     () => ItemDetail(
+
                                         title: data[index]["p_name"]
                                     , data: data[index]),
                                     transition: Transition.cupertino,

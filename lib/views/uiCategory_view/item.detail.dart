@@ -14,6 +14,7 @@ class ItemDetail extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+
     var controller = Get.find<ProductController>();
     return Scaffold(
         backgroundColor: Color(0xfffff6eb),
